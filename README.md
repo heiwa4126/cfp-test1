@@ -8,10 +8,6 @@ GitHub 連携ありで Cloudflare Pages の練習。
 ## 手順
 
 ```sh
-pnpm create cloudflare@latest cfp-test1
-# "Hello World example" を選ぶ
-# "Assets only" を選ぶ
-# Gitはお好みで
-cd cfp-test1
+pnpm i
 pnpm dev  # ローカルでテスト
 ```
