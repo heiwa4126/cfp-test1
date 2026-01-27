@@ -8,6 +8,7 @@ GitHub 連携ありで Cloudflare Pages の練習。
 ## 手順
 
 ```sh
+pnpm audit
 pnpm i
 pnpm dev  # ローカルでテスト
 ```
